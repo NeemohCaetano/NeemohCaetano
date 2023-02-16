@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @NeemohCaetano
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning python, SQL and R
-- 💞️ I’m looking to collaborate on data analysis projects
-- 📫 You can reach me at pedrocaetanoze@gmail.com
+# Hi, I’m @NeemohCaetano, but you can call me Pedro. :)
+
+### Those are the languages I already know:
+* Python (Django)
+* SQL
+* R
+* M
+
+### Stff I'm learning at the moment:
+
+* JavaScript
+* NodeJS
+* HTML
+* CSS
+
+### My interest are:
+* Music
+* WebToons
+* Video Games
+* Data
+* Websites
+* Programing
+
+
+### Where to find me?
+📫 You can reach me at pedrocaetanoze@gmail.com
 
 <!---
 NeemohCaetano/NeemohCaetano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
