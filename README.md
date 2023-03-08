@@ -23,7 +23,7 @@
 
 
 ### Where to find me?
-📫 You can reach me at pedrocaetanoze@gmail.com
+📫 You can reach me at pedrocaetanoze@gmail.com or [LinkedIn](https://www.linkedin.com/in/pedro-caetano-m/)
 
 <!---
 NeemohCaetano/NeemohCaetano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
